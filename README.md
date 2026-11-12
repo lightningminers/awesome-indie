@@ -17,6 +17,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 - If [$], it means it's not free and probably means I haven't tried it but still decided to add it because of the several references.
 - This repo was once [#1 on Github Trending](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)! :_)
+- [Icepy](https://github.com/icepy) translated this repo to [Chinese](https://github.com/icepy/awesome-indie) :)
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
@@ -40,10 +41,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
 
-- **[Barnacl.es](https://barnacl.es/)**
-
-  News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
-
 - **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
   A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
@@ -56,7 +53,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg) and maintained by the seed accelerator YCombinator.
   
-- **[ProductPeople.club](https://productpeople.club/)** [$]
+- **[MegaMaker Club](https://megamaker.co/club/)** [$]
 
   Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targeting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
   
@@ -67,12 +64,20 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Nugget.one](https://nugget.one/)** [$]
 
   Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
+  
+- **[Makerlog](https://getmakerlog.com)**
+
+  Makerlog is a free community of makers shipping products together. There's discussions + a task management tracker that allows you to get a streak (to keep you motivated shipping).
+  
+- **[Aussie Founders](https://www.aussiefounders.com.au/)**
+
+  Aussie Founders is a free community bringing together & supporting Aussies having a go at their own business.
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 - **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
-- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
+- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their side-projects.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
@@ -146,12 +151,16 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
 - **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
 
-  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting cards business.
+  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting card business.
   
 - **[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)**
 
   A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
-    
+
+- **[Build your SaaS](https://saas.transistor.fm/)**
+
+  What does it take to build a SaaS in 2019? Podcast by [Jon Buda](https://twitter.com/jonbuda) and [Justin Jackson](https://twitter.com/mijustin) as they grow Transistor.fm.
+
 ### Talks
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** by [David Heinemeier Hansson](https://twitter.com/dhh)
@@ -164,11 +173,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
 - **[Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA)** by [Pieter Levels](https://twitter.com/levelsio)
 
-  Probably one of the most known indie hackers of the last couple of years talks about how to turn our sideprojects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
+  Probably one of the most known indie hackers of the last couple of years talks about how to turn our side-projects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
   
 - **[Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
+  Lightning 7-minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
   
 - **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)** by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
@@ -261,6 +270,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
   
+- **[The Bootstrapped Founder](https://thebootstrappedfounder.com/)**
+
+  How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
+  
 ##### Others
   
 - **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
@@ -283,7 +296,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Transparent growth and financial reports by a solo saas founder.
 
-- **[37signals](http://37signals.com/bootstrapped)**
+- **[Basecamp](https://basecamp.com/bootstrapped)**
 
   A collection of bootstrapped companies by the people at 37 signals.
 
@@ -298,12 +311,16 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[CandyJapan](https://www.candyjapan.com/behind-the-scenes)**
 
   Revenue numbers and learnings from running a Japanese candy subscription box.
+  
+- **[Awesome Self Funded](https://github.com/awesome-self-funded/awesome-self-funded)**
+
+  Awesome list of successful self-funded tech businesses with >$1M revenue
 
 ### Events
 
 - **[MicroConf](http://www.microconf.com/)** [$]
 
-  "The worlds biggest conference for the worlds smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  "The world's biggest conference for the world's smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
   
 - **[MicroConf Europe](http://www.microconfeurope.com/)** [$]
 
@@ -346,10 +363,13 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
 - **[Marketing for Developers](https://justinjackson.withcoach.com/marketing-for-developers-the-book)** [$] by [Justin Jackson](https://twitter.com/mijustin).
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
+- **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
+- **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
+- **[The Mom Test](http://momtestbook.com/)** [$] by [Rob Fitzpatrick](https://robfitz.com/).
+- **[Zero to Sold](http://zerotosoldbook.com/)** [$] by [Arvid Kahl](https://thebootstrappedfounder.com/about-me/). How Arvid and his partner Danielle started, ran, and sold the bootstrapped EdTech SaaS FeedbackPanda, with everything that worked, should have worked, and didn't work.
 
 ##### Other
 
-- **[Groundera.com](https://groundera.com/)** - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
 - **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 - **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
@@ -358,10 +378,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
 ### Tools
-
-- **[The SaaS Bootstrapper Startup Resources](http://thesaasbootstrapper.com/saas-startup-resources/)**
-
-  A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
